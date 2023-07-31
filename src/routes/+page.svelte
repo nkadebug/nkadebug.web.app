@@ -1,0 +1,1 @@
+<a href="/posts">Recent Posts</a>
